@@ -18,27 +18,36 @@ Celebrato is a Flutter-based Event Booking Application UI that allows users to b
 - Dart
 - Material Design
 
-##  Screenshots
+## 📱 Screenshots
 
 ### Splash Screen
 
-![Splash Screen](screenshots/splash_screen.jpg)
+![Splash Screen](assets/screenshots/splash_screen.jpg)
 
 ### Login Screen
 
-![Login Screen](screenshots/login_screen.jpg)
+![Login Screen](assets/screenshots/login_screen.jpg)
 
-### Event List Screen
+### Signup Screen
 
-![Event List](screenshots/event_list.jpg)
+![Signup Screen](assets/screenshots/signup_screen.jpg)
+
+### Home Screen
+
+![Home Screen](assets/screenshots/home_screen.jpg)
 
 ### Event Details Screen
 
-![Event Details](screenshots/event_details.jpg)
+![Event Details Screen](assets/screenshots/event_details_screen.jpg)
 
 ### Booking Screen
 
-![Booking Screen](screenshots/booking_screen.jpg)
+![Booking Screen](assets/screenshots/booking_screen.jpg)
+
+### Booking Confirmation Screen
+
+![Booking Confirmation Screen](assets/screenshots/booking_confirmation.jpg)
+
 
 ##  Getting Started
 
